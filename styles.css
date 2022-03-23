@@ -37,7 +37,7 @@ header {
    	padding-top:50px;
 	}
 nav {
-    background-color: #f2f2f2;
+    background-color: #dddddd;
 	position: sticky;
 }
 ul {
@@ -70,6 +70,7 @@ li     {
 	float: left;
 	border-right: 5px solid #bbb;
 		}
+
 main  {
 	background-color: #F8F0E3;
 	border-color: #333333;
@@ -102,6 +103,7 @@ footer{
 	border-bottom-right-radius: 25px;
 	text-align: center;
 	color: #343434;
+	background-color: #F8F0E3;
 	}	
 
 
